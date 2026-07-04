@@ -1,1 +1,6 @@
 Here is the source code for constructing manual LP of DC OPF of IEEE 39-bus system
+
+It consists of several files:
+a. DC_OPF_data_39.xlsx is the parameter files which is used to construct the IEEE 39-bus model
+b. IEEE39bus_HorizonLP_rev00.ipynb is the source code file to compute the maximum hosting capacity of PV which can be injected in each of the bus in IEEE 39-bus system
+c. IEEE39bus_SLD.png is the single line diagram of the IEEE 39-bus system which is taken from DigSILENT PowerFactory technical document.
